@@ -13,6 +13,13 @@ Este repositório contém a entrega do projeto "Beleza Pura", incluindo os artef
 
 Certifique-se de ter o Docker e o Docker Compose instalados.
 
+Usar .env para o postgres:
+DATABASE_HOST=beleza_pura_postgres
+DATABASE_PORT=5432
+DATABASE_USER=user
+DATABASE_PASSWORD=password
+DATABASE_NAME=beleza_pura
+
 Acesse:
 
 Backend: http://localhost:3000
